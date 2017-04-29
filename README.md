@@ -77,6 +77,5 @@ timeout is in milliseconds, here we set it to 10 sec above. <b>You should increa
     * Command line with default values: `Python3.5 sentiment_calculator/SO_Run.py`
     * Command line with full settings: `Python3.5 sentiment_calculator/SO_Run.py -i "../Sample/output/Preprocessed_Output/BOOKS" -o "../Sample/output/SO_CAL_Output/BOOKS" -c "../Resources/config_files/en_SO_Calc.ini" -cf 0.0 -g "../Sample/gold/gold.txt"`
 
-
 [1]:http://stanfordnlp.github.io/CoreNLP/
 [2]:http://stackoverflow.com/questions/32879532/stanford-nlp-for-python
