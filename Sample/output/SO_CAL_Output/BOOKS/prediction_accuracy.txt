@@ -1,0 +1,9 @@
+------
+Results:
+------
+25 Positive Reviews
+Percent Correct: 56.0 %
+25 Negative Reviews
+Percent Correct: 72.0 %
+50 Total Reviews
+Percent Correct: 64.0 %

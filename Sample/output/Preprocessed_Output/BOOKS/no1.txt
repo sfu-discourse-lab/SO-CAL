@@ -1,0 +1,40 @@
+Compared/VBN to/TO the/DT work/NN of/IN more/JJR competent/JJ practitioners/NNS of/IN the/DT art/NN of/IN the/DT globe-hopping/JJ action/adventure/mystery/NN novel/NN -/: Michael/NNP Crichton/NNP comes/VBZ to/TO mind/VB -/: "/`` The/DT Da/NN Vinci/NNP Code/NNP "/'' is/VBZ pedestrian/JJ and/CC overwrought/JJ ./.
+To/TO summarize/VB the/DT sprawling/JJ ,/, byzantine/JJ plot/NN :/: warning/NN -/: possible/JJ spoilers/NNS ahead/RB -/: an/DT elderly/JJ Louvre/NN curator/NN is/VBZ murdered/VBN in/IN the/DT museum/NN ./.
+Although/IN shot/VBN in/IN the/DT chest/NN ,/, he/PRP manages/VBZ to/TO disrobe/VB and/CC surround/VB himself/PRP with/IN cryptographic/JJ clues/NNS -/: written/VBN in/IN blood/NN AND/CC invisible/JJ ink/NN (/-LRB- !/. )/-RRB-
+-/: to/TO the/DT reason/NN for/IN his/PRP$ death/NN ./.
+His/PRP$ estranged/VBN granddaughter/NN ,/, who/WP ,/, coincidentally/RB is/VBZ a/DT police/NN inspector/NN (/-LRB- !!/NN )/-RRB-
+AND/CC a/DT cryptologist/NN (/-LRB- !!!/CD )/-RRB-
+,/, enlists/VBZ the/DT aid/NN of/IN a/DT visiting/VBG Harvard/NNP professor/NN and/CC symbologist/NN (/-LRB- !!!!/CD )/-RRB-
+in/IN unraveling/VBG the/DT multiple/JJ mysteries/NNS of/IN :/: 1/LS ./.
+Her/PRP$ grandfather/NN 's/POS death/NN 2/CD ./.
+His/PRP$ role/NN in/IN an/DT ancient/JJ ,/, secret/JJ society/NN 3/CD ./.
+The/DT TRUTH/NN (/-LRB- !!!!!/CD )/-RRB-
+about/IN the/DT foundations/NNS of/IN Christianity/NNP and/CC the/DT perfidy/NN of/IN Rome/NNP (/-LRB- !!!!!!/CD )/-RRB-
+Although/IN prolix/JJ ,/, author/NN and/CC former/JJ schoolmaster/NN Dan/NNP Brown/NNP fails/VBZ to/TO create/VB adequate/JJ descriptions/NNS of/IN people/NNS (/-LRB- "/`` a/DT forty-something/JJ academic/JJ "/'' )/-RRB- ,/, or/CC places/NNS (/-LRB- a/DT chapel/NN "/`` engraved/VBN with/IN a/DT mind-boggling/JJ array/NN of/IN symbols/NNS .../: )/-RRB- ,/, or/CC objects/NNS (/-LRB- "/`` gossamer/NN gowns/NNS "/'' and/CC "/`` golden/JJ orbs/NNS "/'' )/-RRB- ./.
+After/IN 450/CD some/DT pages/NNS ,/, the/DT reader/NN still/RB has/VBZ gotten/VBN few/JJ clues/NNS about/IN matters/NNS so/RB basic/JJ as/IN the/DT physical/JJ appearance/NN of/IN the/DT principal/JJ characters/NNS -/: other/JJ than/IN hair/NN and/CC eye/NN color/NN !/.
+Descriptions/NNS of/IN places/NNS -/: the/DT Louvre/NNP ,/, Westminster/NNP Abbey/NNP -/: are/VBP lifeless/JJ ,/, and/CC read/VB as/IN if/IN plagiarized/VBN from/IN a/DT do-it-yourself/JJ walking/VBG tour/NN guide/NN by/IN one/CD of/IN the/DT less/JJR gifted/JJ of/IN the/DT author/NN 's/POS former/JJ prep/JJ school/NN students/NNS :/: "/`` London/NNP 's/POS ancient/JJ Temple/NNP Church/NNP was/VBD constructed/VBN entirely/RB of/IN Caen/NNP stone/NN ./.
+A/DT dramatic/JJ ,/, circular/JJ edifice/NN with/IN a/DT daunting/JJ facade/NN ,/, a/DT central/JJ turret/NN ,/, and/CC a/DT protruding/VBG nave/NN off/IN one/CD side/NN ,/, the/DT church/NN looked/VBD more/JJR like/IN a/DT military/JJ stronghold/NN than/IN a/DT place/NN of/IN worship/NN ./.
+Consecrated/VBN on/IN the/DT tenth/NN of/IN February/NNP in/IN 1185/CD by/IN Heraclius/NNP ,/, Patriarch/NN of/IN Jerusalem/NNP ,/, the/DT Temple/NNP Church/NNP survived/VBD eight/CD centuries/NNS of/IN political/JJ turmoil/NN ,/, the/DT Great/NNP Fire/NNP of/IN London/NNP ,/, and/CC the/DT First/NNP World/NNP War/NNP ,/, only/RB to/TO be/VB heavily/RB damaged/VBN by/IN Luftwaffe/NNP incendiary/JJ bombs/NNS in/IN 1940/CD ./.
+After/IN the/DT war/NN it/PRP was/VBD restored/VBN to/TO its/PRP$ original/JJ ,/, stark/JJ grandeur/NN ./. "/''
+Got/VBD it/PRP ?/.
+February/NNP 10th/JJ ,/, 1185/CD ;/: Heraclius/NNP ;/: turmoil/NN ;/: fire/NN ;/: war/NN ;/: Luftwaffe/NNP ;/: bombs/NNS ;/: 1940/CD ./.
+These/DT are/VBP factoids/NNS ,/, NOT/RB descriptive/JJ passages/NNS !/.
+What/WDT color/NN is/VBZ Caen/VBN stone/NN ?/.
+Are/VBP there/EX windows/NNS ?/.
+Stained/JJ glass/NN ?/.
+The/DT smell/NN of/IN incense/NN or/CC centuries/NNS of/IN candle/NN wax/NN ?/.
+Pigeons/NNP in/IN the/DT rafters/NNS ?/.
+Bats/NNS in/IN the/DT belfry/NN ?/.
+Brown/NNP is/VBZ n't/RB about/RB to/TO tell/VB us/PRP !/.
+As/IN to/TO plot/NN and/CC character/NN development/NN -/: given/VBN the/DT near/JJ absence/NN of/IN any/DT meaningful/JJ interior/JJ monologues/NNS -/: characters/NNS blather/NN at/IN each/DT other/JJ for/IN page/NN after/IN page/NN in/IN stilted/JJ and/CC unnatural/JJ prose/NN ./.
+Langdon/NNP ,/, the/DT symbologist/NN ,/, speaks/VBZ :/: "/'' '/'' .../: Every/DT stone/NN archway/NN requires/VBZ a/DT central/JJ ,/, wedge-shaped/JJ stone/NN at/IN the/DT top/NN which/WDT locks/VBZ the/DT pieces/NNS together/RB and/CC carries/VBZ all/PDT the/DT weight/NN ./.
+This/DT stone/NN is/VBZ ,/, in/IN an/DT architectural/JJ sense/NN ,/, the/DT key/NN to/TO the/DT vault/NN ./.
+In/IN English/NNP we/PRP call/VBP it/PRP a/DT keystone/NN ./. '/''
+Langdon/NNP watched/VBD her/PRP$ eyes/NNS for/IN any/DT spark/VB of/IN recognition/NN ./. "/''
+(/-LRB- Perhaps/RB they/PRP had/VBD understandably/RB glazed/VBN over/IN ./. )/-RRB-
+Unfortunately/RB ,/, isolated/VBN examples/NNS ca/MD n't/RB create/VB the/DT mind-numbing/JJ effect/NN of/IN page/NN after/IN page/NN of/IN this/DT tedious/JJ bloviating/NN ./.
+The/DT success/NN of/IN the/DT book/NN must/MD be/VB attributed/VBN to/TO the/DT publisher/NN 's/POS (/-LRB- Doubleday/NNP )/-RRB- unprecedented/JJ marketing/NN effort/NN ./.
+According/VBG to/TO the/DT New/NNP York/NNP Times/NNP ,/, Doubleday/NNP distributed/VBD 10,000/CD advance/NN copies/NNS of/IN the/DT book/NN to/TO booksellers/NNS and/CC the/DT media/NNS ,/, and/CC put/VBD Mr./NNP Brown/NNP -/: who/WP had/VBD never/RB before/IN sold/VBN more/JJR than/IN a/DT few/JJ thousand/CD copies/NNS of/IN his/PRP$ earlier/JJR efforts/NNS -/: on/IN extended/VBN publicity/NN road/NN trips/NNS to/TO trade/VB shows/NNS and/CC booksellers/NNS ./.
+If/IN you/PRP 're/VBP looking/VBG for/IN an/DT intellectually/RB challenging/JJ mystery/NN story/NN ,/, read/VB or/CC reread/VB Eco/NNP 's/POS "/`` The/DT Name/NN of/IN the/DT Rose/NNP "/'' ,/, or/CC "/`` Foucault/NNP 's/POS Pendulum/NN "/'' ./.
+For/IN more/JJR vivid/JJ descriptions/NNS of/IN people/NNS and/CC places/NNS and/CC events/NNS in/IN an/DT atmosphere/NN of/IN mystery/NN ,/, read/VBD Crichton/NNP ,/, or/CC Ian/NNP Fleming/NNP -/: or/CC even/RB Tom/NNP Clancy/NNP !/.
+For/IN an/DT example/NN of/IN how/WRB marketing/NN hype/NN can/MD overcome/VB critical/JJ judgment/NN and/CC influence/NN popular/JJ taste/NN ,/, read/VB "/`` The/DT Da/NN Vinci/NNP Code/NNP "/'' ./.
