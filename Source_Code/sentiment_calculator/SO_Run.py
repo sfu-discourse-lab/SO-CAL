@@ -123,6 +123,12 @@ def generate_file_sentiment(basicout_path, cutoff, file_sentiment_path):
 
 
 def generate_richoutJSON(richout_input, richout_output):
+    '''
+    Convert richout.txt to JSON formatted output. The original order did not change.
+    :param richout_input: the path of richout.txt
+    :param richout_output: the path of rich_output.json
+    :return: None, but generated rich_output.json
+    '''
     rich_dct = {}
     within_file = 0
     latest_key = ""

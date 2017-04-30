@@ -13,7 +13,6 @@ class Preprocess():
         :param args: Input the defined command line parameters
         :return: None
         '''
-
         # Start Stanford CoreNLP Server
         self.nlp = StanfordCoreNLP('http://localhost:9000')
 
@@ -39,7 +38,6 @@ class Preprocess():
         :param row_string: The string format input for Standford CoreNLP
         :return: Json format output
         '''
-
         processed_json = self.nlp.annotate(row_string, properties={
                        'annotators': self.standford_annotators,
                        'outputFormat': 'json'
@@ -54,7 +52,6 @@ class Preprocess():
         :param file_name: output file name
         :return: None
         '''
-
         rows = []
         for sent in json_input['sentences']:
             parsed_sent = " ".join([t['originalText'] + "/" + t['pos'] for t in sent['tokens']])
@@ -73,7 +70,6 @@ class Preprocess():
         Output the results into files witH POS Tags.
         :return: None
         '''
-
         if self.input_type == "file":
             file_name = os.path.basename(self.input)
             text_string = ""
