@@ -1,5 +1,7 @@
 # coding: utf-8
-######## Semantic Orientation Calculator (SO-CAL) v1.11 #######
+######## Semantic Orientation Calculator (SO-CAL) #######
+# The code is is majorly from Julian Brooke's code written in 2008
+# Changes are made to allow the code running in Python3.5
 # The Semantic Orientation Calculator take a properly formated textfile and
 # (optionally) a file of span weights and calculates a semantic orietation (SO)
 # for the file based on the appearance of words carrying positive or negative
