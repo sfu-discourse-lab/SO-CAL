@@ -1,5 +1,25 @@
 # SO-CAL
-New version of SO-CAL
+
+SO-CAL is the Semantic Orientation CALculator, a tool to extract sentiment from text. Sentiment is defined as positive or negative opinion.
+
+SO-CAL has a long history of development, starting roughly in 2004. See below for improvements in this version. The best description of SO-CAL is in this paper:
+
+Taboada, Maite, Julian Brooke, Milan Tofiloski, Kimberly Voll and Manfred Stede (2011) [Lexicon-Based Methods for Sentiment Analysis][3]. Computational Linguistics 37 (2): 267-307. 
+
+Other papers about SO-CAL development:
+
+Taboada, M., J. Brooke and M. Stede (2009) [Genre-Based Paragraph Classification for Sentiment Analysis][4]. In Proceedings of 10th Annual SIGDIAL Conference on Discourse and Dialogue. London, UK. September 2009. pp. 62-70.
+
+Brooke, J., M. Tofiloski and M. Taboada (2009) [Cross-Linguistic Sentiment Analysis: From English to Spanish][5]. In Proceedings of RANLP 2009, Recent Advances in Natural Language Processing. Borovets, Bulgaria. September 2009. pp. 50-54. -- Poster
+
+Voll, K. and M. Taboada (2007) [Not All Words are Created Equal: Extracting Semantic Orientation as a Function of Adjective Relevance][6]. In Proceedings of the 20th Australian Joint Conference on Artificial Intelligence. Gold Coast, Australia. December 2007. pp. 337-346.
+
+Taboada, M., C. Anthony and K. Voll (2006) [Methods for Creating Semantic Orientation Dictionaries][7]. Proceedings of 5th International Conference on Language Resources and Evaluation (LREC). Genoa, Italy. May 2006. pp. 427-432.
+
+Taboada, M. and J. Grieve (2004) [Analyzing Appraisal Automatically][8] American Association for Artificial Intelligence Spring Symposium on Exploring Attitude and Affect in Text. Stanford. March 2004. AAAI Technical Report SS-04-07. (pp.158-161). Download poster (pdf).
+
+
+# New version of SO-CAL
 
 * Part 1 - Install Stanford CoreNLP
 * Part 2 - Data Preprocessing
@@ -80,3 +100,9 @@ timeout is in milliseconds, here we set it to 10 sec above. <b>You should increa
 
 [1]:http://stanfordnlp.github.io/CoreNLP/
 [2]:http://stackoverflow.com/questions/32879532/stanford-nlp-for-python
+[3]:http://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00049
+[4]:http://www.sfu.ca/~mtaboada/docs/publications/Taboada_Brooke_Stede_SIGDIAL_2009.pdf
+[5]:http://www.sfu.ca/~mtaboada/docs/publications/Brooke_et_al_RANLP_2009.pdf
+[6]:http://www.sfu.ca/~mtaboada/docs/publications/Voll_Taboada_AusAI.pdf
+[7]:http://www.sfu.ca/~mtaboada/docs/publications/Taboada_et_al_LREC_2006.pdf
+[8]:http://www.sfu.ca/~mtaboada/docs/publications/TaboadaGrieveAppraisal.pdf
