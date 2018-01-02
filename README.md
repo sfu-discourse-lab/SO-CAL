@@ -21,6 +21,8 @@ Taboada, M. and J. Grieve (2004) [Analyzing Appraisal Automatically][8] American
 
 # New version of SO-CAL
 
+The code is written in <b>Python 3.5</b> so please make sure to work with this version of Python.
+
 * Part 1 - Install Stanford CoreNLP
 * Part 2 - Data Preprocessing
 * Part 3 - Sentiment Calculator
