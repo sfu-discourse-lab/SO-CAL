@@ -90,12 +90,15 @@ class Preprocess():
                 print(input_file_path + " Done!")
                 self.output_preprocessed_data(parsed_json, file_name)
 
-
+def input_path(val):
+   if os.path.exists(val):
+       return val
+   raise ValueError("Invalid path: %s" % val)
 
 def main():
     # Define command line parameters
     parser = argparse.ArgumentParser(description='Get terminal command line input')
-    parser.add_argument('--input', '-i', type=str, dest='input_path', action='store',
+    parser.add_argument('--input', '-i', type=input_path, dest='input_path', action='store',
                             default='../input/Raw_Text/BOOKS/',
                             help="type you input file/folder path through command line")
 
